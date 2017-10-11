@@ -296,6 +296,10 @@ input, button {
 
 .connected__bot .connected__message .connected__message__p {
     padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .connected__bot .connected__message {
